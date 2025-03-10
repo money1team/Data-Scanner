@@ -1,3 +1,7 @@
+# Data-Scanner
+
+A system that takes information or images then scans them for more information.
+
 This project was generated from [create.xyz](https://create.xyz/).
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
